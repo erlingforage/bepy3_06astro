@@ -2,7 +2,9 @@
 
 # difficulty 5
 # bootdev run -s
-#
+# passed submit 10/30/2026
+# github wsl password is PAT on github with good permissions
+
 
 """
 Game Loop
