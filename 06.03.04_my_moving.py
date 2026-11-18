@@ -3,15 +3,20 @@
 # /mnt/c/users/erlin/documents/bootdev/back_dev/py3/06class_asteroids05_wsl
 # uv run main.py
 # cat filename.txt | clip.exe
+# git wsl astro into github astro
+# git add .
+# git commit -m "message"
+# git push
 
 # 6. Build Asteroids
 
 # ch3 Player 
 # L4
 # Moving
-# 06.03.04_my_moving
+# 06.03.05_my_groups
+my_group = pygame.sprite.Group()
 
-# difficulty 4
+# difficulty 6
 # submit: bootdev run -s 
 # submit: bootdev run
 # submit passed 11/6/2026

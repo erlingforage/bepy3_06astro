@@ -7,6 +7,9 @@ dist/
 wheels/
 *.egg-info
 
+# 06.04.02_my_collisions
+game_events.jsonl
+
 
 # Virtual environments
 .venv
